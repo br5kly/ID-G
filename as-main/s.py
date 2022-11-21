@@ -1,2 +1,2 @@
-from ssz import sql
+from gty import sql
 sql()
